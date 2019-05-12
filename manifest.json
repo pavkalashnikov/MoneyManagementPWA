@@ -1,0 +1,16 @@
+{
+    "short_name": "Money Management",
+    "name": "Money Management - PWA example",
+    "icons": [
+      {
+        "src": "logo.png",
+        "type": "image/jpg",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/MM",
+    "theme_color": "#3367D6"
+  }

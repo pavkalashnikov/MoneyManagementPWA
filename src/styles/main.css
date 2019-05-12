@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    overflow: auto;
+}
+
+.center {
+    font-size: 8vmax;
+}
+
+#logo {
+    background-image: url(/logo.png);
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+}
